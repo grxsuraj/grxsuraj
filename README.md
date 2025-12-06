@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m a data science enthusiast currently working on projects involving:
+Python, SQL ,machine learning to turn raw data into meaningful insights.
+I’m open to
+Internships and full-time roles in Data Science, Data Analytics,
+and Machine Learning.
+Fun fact
+I love uncovering patterns hidden in data — for me,
+solving real-world problems with data feels like connecting the dots in a story.
+
+💻 Tech Stack:
+C++ Python Anaconda Flask MySQL Matplotlib mlflow NumPy Pandas Plotly scikit-learn Power Bi C Azure Vercel FastAPI
+
+📊 GitHub Stats:
+
+
+
+
+✍️ Random Dev Quote
+
+
