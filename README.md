@@ -1,44 +1,115 @@
-# 💫 About Me:
-I’m a data science enthusiast currently working on projects involving: Python, SQL ,machine learning to turn raw data into meaningful insights. I’m open to Internships and full-time roles in Data Science, Data Analytics, and Machine Learning. Fun fact I love uncovering patterns hidden in data — for me, solving real-world problems with data feels like connecting the dots in a story.
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Suraj&fontSize=60&fontColor=e94560&fontAlignY=35&desc=Learning.%20Building.%20Scaling.&descSize=20&descAlignY=55&descColor=a8b2d8&animation=fadeIn" />
+  <img src="https://i.pinimg.com/originals/fc/9c/e5/fc9ce59ceff32d597144e47606325126.gif" width="100%"/>
+</p>
+
+<h1 align="center">Suraj Pathan</h1>
+
+<p align="center">
+  Learning. Building. Scaling.
 </p>
 
 <p align="center">
-  <a href="https://github.com/grxsuraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Open+Source+Contributor;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Turning+Raw+Data+Into+Meaningful+Insights;Open+to+Internships+%26+Full-time+Roles" />
+</p>
+
+---
+
+## About
+
+Data Science & ML enthusiast focused on building strong technical foundations in analytics and real-world problem solving.
+
+Currently working on projects involving Python, SQL, and machine learning — turning raw data into meaningful insights.
+
+I love uncovering patterns hidden in data. Solving real-world problems with data feels like connecting the dots in a story.
+
+Open to **Internships** and **full-time roles** in Data Science, Data Analytics, and Machine Learning.
+
+---
+
+# Tech Stack
+
+## Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+---
+
+## Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+---
+
+## Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+</p>
+
+---
+
+## Machine Learning / Data Science
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,matplotlib,tensorflow" />
+</p>
+
+---
+
+## Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
+
+---
+
+# Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suraj-pathan-17ba3a2a4">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="mailto:surajyp2283@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" height="45"/>
   </a>
 </p>
 
 ---
 
-
-
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=grxsuraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=grxsuraj&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=a8b2d8" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=grxsuraj&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=a8b2d8" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grxsuraj&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/grxsuraj/grxsuraj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+# Future Scope
+
+- Data Science & ML Systems
+- Real World Problem Solving with Data
+- Analytics Dashboards & Insights Tools
+- AI-Powered Applications
+- Impactful Open Source Contributions
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=grxsuraj&icon=0&color=6" />
+  </a>
 </p>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suraj-pathan-17ba3a2a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajyp2283@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=grxsuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=grxsuraj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=grxsuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=grxsuraj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
